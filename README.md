@@ -32,6 +32,6 @@ Contains the following:
 
 Final Project: 
 1. Implemented refractions and total internal reflection in project4
-2. Used point light and applying Ambient, diffuse and specular lighting.
-3. Used spot and directional lights and applying Ambient, diffuse and specular lighting.
+2. Used point light and applied Ambient, diffuse and specular lighting.
+3. Used spot and directional lights and applied Ambient, diffuse and specular lighting.
 
